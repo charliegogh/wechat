@@ -1,0 +1,27 @@
+{
+  "name": "wechat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.13.1",
+    "ejs": "^2.6.1",
+    "koa": "^2.6.1",
+    "koa-art-template": "^1.1.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.10.0",
+    "koa-static": "^5.0.0",
+    "koa-views": "^6.1.4",
+    "koa-xml-body": "^2.1.0",
+    "raw-body": "^2.3.3",
+    "request": "^2.88.0",
+    "sha1": "^1.1.1",
+    "xml2js": "^0.4.19"
+  }
+}
